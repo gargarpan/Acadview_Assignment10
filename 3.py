@@ -1,9 +1,9 @@
 print("Cop Details:")
 class cop:
     def __init__(self):
-        self.name="Akhil"
+        self.name="Aavi"
         self.age=21
-        self.workexperience="8 year"
+        self.workexperience="10 year"
         self.designation="IPS"
 
     def add(self):
